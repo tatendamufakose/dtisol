@@ -30,9 +30,11 @@
 					<nav id="menu">
 						<ul class="links">
 							<li><a href="index.html">Home</a></li>
-							<li><a href="landing.html">Landing</a></li>
-							<li><a href="generic.html">Generic</a></li>
-							<li><a href="elements.html">Elements</a></li>
+							<li><a href="about.html">About Us</a></li>
+							<li><a href="services.html">Our Services</a></li>
+							<li><a href="our_partners.html">Our Partners</a></li>
+							<li><a href="new_offerings.html">What's New</a></li>
+							<li><a href="contact.html">Contact Us</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">Get Started</a></li>
@@ -62,7 +64,7 @@
 						<div class="inner">
 							<section>
 								<form method="post" action="#">
-                                    <h4 class="major">Start Your Smart Project</h4>
+                                    <h3 class="major">Start Your Smart Project</h3>
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
@@ -73,6 +75,20 @@
 											<input type="text" name="email" id="email" />
 										</div>
 										<div class="field">
+											<label for="area">Area</label>
+											<input type="text" name="area" id="area" />
+										</div>
+										<div class="field">
+											<label for="projectType">Project Type</label>
+											<select name="projectType" id="projectType">
+												<option value="0">- Project Type -</option>
+												<option value="1">Home</option>
+												<option value="2">Office</option>
+												<option value="3">Combined</option>
+												<option value="4">Other</option>
+											</select>
+										</div>
+										<div class="field">
 											<label for="message">Message</label>
 											<textarea name="message" id="message" rows="6"></textarea>
 										</div>
@@ -81,6 +97,7 @@
 										<li><input type="submit" value="Send Message & Get Your Free Quote" class="primary" /></li>
 										<li><input type="reset" value="Clear" /></li>
 									</ul>
+									<p>No spam. No hidden fees. Just expert guidance.</p>
 								</form>
 							</section>
 							<section class="split">
