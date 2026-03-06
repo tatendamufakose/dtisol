@@ -3958,3 +3958,38 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+/***************************************************/
+/***************************************************/
+/*************CUSTOM ALERT STYLES*******************/
+/***************************************************/
+/***************************************************/
+
+.alert {
+	padding: 15px 20px;
+	margin: 15px 0;
+	border-radius: 5px;
+	font-weight: 500;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+	opacity: 0;
+	animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+	to {
+		opacity: 1;
+	}
+}
+
+.alert-success {
+	background-color: #e6ffed;
+	border-left: 5px solid #28a745;
+	color: #155724;
+}
+
+.alert-error {
+	background-color: #ffe6e6;
+	border-left: 5px solid #dc3545;
+	color: #721c24;
+}

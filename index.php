@@ -150,8 +150,18 @@
 				<!-- Contact -->
 					<section id="contact">
 						<div class="inner">
+
+						    <!-- Alert placeholder -->
+							<?php if (isset($_GET['status'])): ?>
+							  <div class="alert 
+								<?php echo $_GET['status'] === 'success' ? 'alert-success' : 'alert-error'; ?>">
+								<?php echo htmlspecialchars($_GET['message']); ?>
+							  </div>
+							<?php endif; ?>
+
 							<section>
-								<form method="post" action="#">
+								<form method="post" action="send_mail.php">
+
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
