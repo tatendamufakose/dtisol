@@ -225,7 +225,7 @@
 									<div class="contact-method">
 										<span class="icon solid alt fa-envelope"></span>
 										<h3>Email</h3>
-										<a href="contact.html">info@dtisol.co.za</a>
+										<a href="contact.html">sales@dtisol.co.za</a>
 									</div>
 								</section>
 								<section>

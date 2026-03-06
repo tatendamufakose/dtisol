@@ -38,16 +38,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     try {
         // Server settings
         $mail->isSMTP();
-        $mail->Host       = 'smtp.yourdomain.com';   // To replace with DTISOL SMTP server
+        $mail->Host       = 'smtp.dtisol.co.za';   // To replace with DTISOL SMTP server
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'info@dtisol.co.za'; // Check actual DTISOL email (SMTP username)
-        $mail->Password   = 'your_password';             // To replace with DTISOL SMTP assword
+        $mail->Username   = 'sales@dtisol.co.za'; // Check actual DTISOL email (SMTP username)
+        $mail->Password   = 'digitech@2019';             // To replace with DTISOL SMTP assword
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587; // Common SMTP port (ndogona kuyedza 465 if this is tied up)
 
         // Recipients
         $mail->setFrom('your_email@yourdomain.com', 'Website Contact Form');
-        $mail->addAddress('info@dtisol.co.za', 'DIGITECH Innovative Solutions'); // Recipient
+        $mail->addAddress('sales@dtisol.co.za', 'DIGITECH Innovative Solutions'); // Recipient
 
         // Reply-to
         $mail->addReplyTo($email, $name);
