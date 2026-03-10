@@ -261,7 +261,7 @@
 								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
 								<li><a href="https://www.facebook.com/share/1DG73FNkGA" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
 								<li><a href="https://www.instagram.com/dti_solutions" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="https://www.share.google/NUkWmR2MIhHzrS0MW" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://za.linkedin.com/company/digitech-innovative-solutions" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 								<li><a href="https://www.snupit.co.za/milnerton/central/digitech-innovative-solutions/448195" class="icon brands alt fa-snupit"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
