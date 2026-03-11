@@ -29,15 +29,15 @@
 				<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="services.html">Our Services</a></li>
-							<li><a href="our_partners.html">Our Partners</a></li>
-							<li><a href="new_offerings.html">What's New</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About Us</a></li>
+							<li><a href="services.php">Our Services</a></li>
+							<li><a href="our_partners.php">Our Partners</a></li>
+							<li><a href="new_offerings.php">What's New</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 						<ul class="actions stacked">
-							<li><a href="contact.html" class="button primary fit">Get Started</a></li>
+							<li><a href="contact.php" class="button primary fit">Get Started</a></li>
 							<li><a href="tel:0027814458003" class="button fit">Call Us <span class="icon solid alt fa-phone"></span></a></li>
 						</ul>
 					</nav>
