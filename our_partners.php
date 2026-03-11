@@ -19,9 +19,8 @@
 			<div id="wrapper">
 
 				<!-- Header -->
-				<!-- Note: The "styleN" class below should match that of the banner element. -->
-					<header id="header" class="alt style1">
-						<a href="index.html" class="logo"><img src="images/dtisol_logo.png" /></a>
+					<header id="header" class="alt">
+						<a href="index.php" class="logo"><img src="images/logos/LOGO without white ICON V1.png" /></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>

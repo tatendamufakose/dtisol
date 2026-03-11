@@ -19,12 +19,12 @@
 			<div id="wrapper">
 
 				<!-- Header -->
-				<header id="header" class="alt">
-					<a href="index.html" class="logo"><img src="images/dtisol_logo.png" /></a>
-					<nav>
-						<a href="#menu">Menu</a>
-					</nav>
-				</header>
+					<header id="header" class="alt">
+						<a href="index.php" class="logo"><img src="images/logos/LOGO without white ICON V1.png" /></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
 
 				<!-- Menu -->
 					<nav id="menu">
