@@ -155,7 +155,7 @@
 							<?php if (isset($_GET['status'])): ?>
 							  <div class="alert 
 								<?php echo $_GET['status'] === 'success' ? 'alert-success' : 'alert-error'; ?>">
-								<?php echo htmlspecialchars($_GET['message']); ?>
+								<?php echo htmlspecialchars($_GET['message']); ?> 
 							  </div>
 							<?php endif; ?>
 
