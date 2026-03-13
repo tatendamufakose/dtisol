@@ -21,7 +21,6 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<!--<a href="index.html" class="logo"><img src="images/dtisol_logo.png" /></a>-->
 						<a href="index.php" class="logo"><img src="images/logos/LOGO with white ICON V2.png" /></a>
 						<nav>
 							<a href="#menu">Menu</a>
@@ -161,8 +160,13 @@
 
 							<section>
 								<form method="post" action="send_mail.php">
-
+									<div class="field">
+										<input type="hidden" name="referrer_url" value="index.php"/>
+									</div>
 									<div class="fields">
+										<div class="field">
+											<input type="hidden" name="referrer_url" value="index.php"/>
+										</div>
 										<div class="field half">
 											<label for="name">Name</label>
 											<input type="text" name="name" id="name" />

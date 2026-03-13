@@ -195,8 +195,11 @@
 					<section id="contact">
 						<div class="inner">
 							<section>
-								<form method="post" action="#">
+								<form method="post" action="send_mail.php">
 									<div class="fields">
+										<div class="field">
+											<input type="hidden" name="referrer_url" value="new_offerings.php"/>
+										</div>
 										<div class="field half">
 											<label for="name">Name</label>
 											<input type="text" name="name" id="name" />

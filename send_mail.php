@@ -10,6 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name    = trim($_POST['name']);
     $email   = trim($_POST['email']);
     $message = trim($_POST['message']);
+    $referrer_page = trim($_POST['referrer_url']);
 
     $errors = [];
 
@@ -44,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Username   = 'sales@dtisol.co.za'; // Check actual DTISOL email (SMTP username)
         $mail->Password   = 'digitech@2019';             // To replace with DTISOL SMTP assword
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port       = 587; // Common SMTP port for SSL (TO DO: ndogona kuyedza 465 yeTLS if this is tied up)
+        $mail->Port       = 587; // SMTP port for SSL (TO DO: kuyedza 465 yeTLS if this is tied up)
 
 
         //For Production
@@ -53,7 +54,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->SMTPKeepAlive = true;
 
         // Recipients
-        //$mail->setFrom('your_email@yourdomain.com', 'Website Contact Form');
         $mail->setFrom($email, $name . ' (Via Website)');
         $mail->addAddress('sales@dtisol.co.za', 'DIGITECH Innovative Solutions'); // Recipient
 
@@ -62,7 +62,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Content
         $mail->isHTML(true);
-        $mail->CharSet = 'UTF-8';   //Testing specific CharSet. TO DO: Chech for compatibility with isHTML
+        $mail->CharSet = 'UTF-8';   
 
         $mail->Subject = "New Contact Form Submission from $name";
         $mail->Body    = "<strong>Name:</strong> $name<br>
@@ -70,10 +70,36 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                           <strong>Message:</strong><br>" . nl2br($message);
         $mail->AltBody = "Name: $name\nEmail: $email\nMessage:\n$message";
 
+        
+        //send the email
         $mail->send();
-        echo "<html><head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head><body><p class='alert alert-success'>Thank you, your message has been sent successfully and we will get back to you in no time!</p></body></html>";
+
+        echo "<html>
+                    <head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head>
+                    <body><!-- Header -->
+					    <header id='header' class='alt'>
+						    <a href='index.php' class='logo'><img src='images/logos/LOGO with white ICON V2.png' /></a>
+					    </header>";
+
+        echo "<div class='alert-container'>
+                    <p class='alert alert-success'>Thank you, your message has been sent successfully and we will get back to you in no time!</p>
+                    <a href='{$referrer_page}' class='button fit half'>Return to {$referrer_page}</a>
+              </div>
+            </body>
+           </html>";
     } catch (Exception $e) {
-        echo "<html><head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head><body><p class='alert alert-error'>Uh-oh. It appears your message could not be sent at this time. Mailer Error: {$mail->ErrorInfo}</p><p>Please try again at a later time, or contact us via phone on: <a href='tel:0027814458003' class='button fit'>(+27) 81-445-8003</a></p></body></html>";
+        echo "<html>
+                <head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head>
+                <body><!-- Header -->
+					<header id='header' class='alt'>
+						<a href='index.php' class='logo'><img src='images/logos/LOGO with white ICON V2.png' /></a>
+					</header>
+                    <div class='alert-container'>
+                        <p class='alert alert-error'>Uh-oh. It appears your message could not be sent at this time. Mailer Error: {$mail->ErrorInfo}</p>
+                        <p>Please try again at a later time, or contact us via phone on: <a href='tel:0027814458003' class='button fit'>(+27) 81-445-8003</a></p>
+                    </div>
+                </body>
+               </html>";
         error_log("Mailer Error: " . $mail->ErrorInfo);
     }
 }
