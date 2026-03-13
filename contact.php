@@ -63,7 +63,7 @@
 					<section id="contact">
 						<div class="inner">
 							<section>
-								<form method="post" action="#">
+								<form method="post" action="send_contact_mail.php">
                                     <h3 class="major">Start Your Smart Project</h3>
 									<div class="fields">
 										<div class="field half">
@@ -91,6 +91,9 @@
 										<div class="field">
 											<label for="message">Message</label>
 											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+										<div class="field">
+											<input type="hidden" name="referrer_url" value="index.php"/>
 										</div>
 									</div>
 									<ul class="actions">
