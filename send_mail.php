@@ -39,7 +39,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     try {
         // Server settings
         $mail->isSMTP();
-        //$mail->Host       = 'smtp.dtisol.co.za';   // To replace with DTISOL SMTP server
         $mail->Host       = 'mail.dtisol.co.za';   // To replace with DTISOL SMTP server
         $mail->SMTPAuth   = true;
         $mail->Username   = 'sales@dtisol.co.za'; // Check actual DTISOL email (SMTP username)
@@ -72,10 +71,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->AltBody = "Name: $name\nEmail: $email\nMessage:\n$message";
 
         $mail->send();
-        echo "<p class='alert alert-success'>Thank you, your message has been sent successfully!</p>";
+        echo "<html><head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head><body><p class='alert alert-success'>Thank you, your message has been sent successfully and we will get back to you in no time!</p></body></html>";
     } catch (Exception $e) {
-        echo "<p class='alert alert-error'>Uh-oh. It appears your message could not be sent at this time. Mailer Error: {$mail->ErrorInfo}</p><p>Please try again at a later time, or contact us via phone on: <a href='tel:0027814458003' class='button fit'>(+27) 81-445-8003</a></p>";
+        echo "<html><head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head><body><p class='alert alert-error'>Uh-oh. It appears your message could not be sent at this time. Mailer Error: {$mail->ErrorInfo}</p><p>Please try again at a later time, or contact us via phone on: <a href='tel:0027814458003' class='button fit'>(+27) 81-445-8003</a></p></body></html>";
         error_log("Mailer Error: " . $mail->ErrorInfo);
     }
 }
 ?>
+
