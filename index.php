@@ -47,7 +47,7 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>DIGITECH Innovative Solutions</h1>
+								<h1>DIGITECH INNOVATIVE SOLUTIONS</h1>
 							</header>
 							<div class="content">
 								<p>
