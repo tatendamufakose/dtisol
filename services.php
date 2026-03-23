@@ -47,7 +47,7 @@
 					<section id="banner" class="style1">
 						<div class="inner">
 							<span class="image">
-								<img src="images/solar.jpg" alt="" />
+								<img src="images/partners/modern-living-room-with-large-tv-couch-plants.jpg" alt="" />
 							</span>
 							<header class="major">
 								<h1>Our Services</h1>

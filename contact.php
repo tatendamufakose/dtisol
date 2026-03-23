@@ -52,7 +52,8 @@
 										<h1>Contact Us</h1>
 									</header>
 									<span class="image main"><img src="images/" alt="" /></span>
-									<p>Ready to experience the convenience, security, and efficiency of a truly smart home? Whether you’re interested in automation, energy-saving technologies, advanced security, or a complete audio-visual transformation, our team is here to guide you every step of the way. Tell us about your home and your goals, and we’ll design a tailored solution that fits your lifestyle — with no obligation and no pressure.</p>
+									<p>Ready to experience the convenience, security, and efficiency of a truly smart home? Whether you’re interested in automation, energy-saving technologies, advanced security, or a complete audio-visual transformation, our team is here to guide you every step of the way. 
+									<br><br>Tell us about your space and your goals, and we’ll design a tailored solution that fits your lifestyle — with <strong>no obligation</strong> and <strong>no pressure</strong>.</p>
 									<p>Get in touch today and take the first step toward a smarter, safer, and more sustainable way of living.</p>
 								</div>
 							</section>
