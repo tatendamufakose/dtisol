@@ -39,10 +39,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
     if (!empty($errors)) {
+        echo "<html>
+                <head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head>
+                <body><!-- Header -->
+					<header id='header' class='alt'>
+						<a href='index.php' class='logo'><img src='images/logos/LOGO without white ICON V2.png' /></a>
+					</header>
+                    <div class='alert-container'>
+                        <h3>Oops! Looks like something is missing on the form you want to submit there!</h3>";
         // Show errors
         foreach ($errors as $error) {
-            echo "<div class='alert alert-error'>$error</div>";
+            echo "<p class='alert alert-error'>$error</p>";
         }
+
+        echo "<a href='{$referrer_page}#contact' class='button fit half'>Click here to complete fields and try again.</a>
+                  </div>
+                </body>
+               </html>";
         exit;
     } else{
         switch ($projectTypeIndex){
@@ -110,12 +123,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head>
                     <body><!-- Header -->
 					    <header id='header' class='alt'>
-						    <a href='index.php' class='logo'><img src='images/logos/LOGO with white ICON V2.png' /></a>
+						    <a href='index.php' class='logo'><img src='images/logos/LOGO without white ICON V2.png' /></a>
 					    </header>";
 
         echo "<div class='alert-container'>
                     <p class='alert alert-success'>Thank you, your message has been sent successfully and we will get back to you in no time!</p>
-                    <a href='{$referrer_page}' class='button fit half'>Return to {$referrer_page}</a>
+                    <a href='index.php' class='button fit half'>Return to home page</a>
               </div>
             </body>
            </html>";
@@ -124,7 +137,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <head><link rel='stylesheet' href='assets/css/main.css' /><noscript><link rel='stylesheet' href='assets/css/noscript.css' /></noscript></head>
                 <body><!-- Header -->
 					<header id='header' class='alt'>
-						<a href='index.php' class='logo'><img src='images/logos/LOGO with white ICON V2.png' /></a>
+						<a href='index.php' class='logo'><img src='images/logos/LOGO without white ICON V2.png' /></a>
 					</header>
                     <div class='alert-container'>
                         <p class='alert alert-error'>Uh-oh. It appears your message could not be sent at this time. Mailer Error: {$mail->ErrorInfo}</p>

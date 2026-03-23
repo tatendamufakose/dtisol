@@ -20,7 +20,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.php" class="logo"><img src="images/logos/LOGO without white ICON V1.png" /></a>
+						<a href="index.php" class="logo"><img src="images/logos/LOGO without white ICON V2.png" /></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -94,7 +94,7 @@
 											<textarea name="message" id="message" rows="6"></textarea>
 										</div>
 										<div class="field">
-											<input type="hidden" name="referrer_url" value="index.php"/>
+											<input type="hidden" name="referrer_url" value="contact.php"/>
 										</div>
 									</div>
 									<ul class="actions">

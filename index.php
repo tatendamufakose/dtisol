@@ -21,7 +21,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.php" class="logo"><img src="images/logos/LOGO with white ICON V2.png" /></a>
+						<a href="index.php" class="logo"><img src="images/logos/LOGO without white ICON V2.png" /></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
