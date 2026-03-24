@@ -68,9 +68,11 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h2>SMART HOME SMART LIFE</h2>
+										<h2>SMART ENVIROMNMENT, SMART LIFE</h2>
 									</header>
-									<p>At <b>DIGITECH Innovative Solutions</b>, we offer a full suite of intelligent solutions designed to enhance comfort, security, efficiency, and productivity across homes and offices. From smart automation and advanced security to green technologies, IoT integration, smart home systems, and audio-visual installations, our services are built to work seamlessly together — creating connected environments that adapt to you. Whatever your needs, our team delivers tailored technology that simplifies everyday living and empowers smarter spaces.</p>
+									<p>At <b>DIGITECH INNOVATIVE SOLUTIONS</b>, we offer a full suite of intelligent solutions designed to enhance comfort, security, efficiency, and productivity across homes and offices. 
+									From smart automation and advanced security to green technologies, IoT integration, smart home systems, and audio-visual installations, our services are built to work seamlessly together — creating connected environments that adapt to you. 
+											Whatever your needs, our team delivers tailored technology that simplifies everyday living and empowers smarter spaces.</p>
 								</div>
 							</section>
 
@@ -83,17 +85,18 @@
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Home Automation</h3>
+												<h3>Smart Homes</h3>
 											</header>
 											<p>
-												<b>Take total control of your home or office environment.</b>
-												Manage lighting, temperature, blinds, and appliances with a single tap or a simple voice command. Create personalized routines that adapt to your lifestyle for ultimate comfort and convenience.
-												A smart home operating system (OS) connects virtually all of the technology in your home. With Control4 Smart Home OS3, you and your family can control nearly every device and system in the
-												house in ways that are easy and fun to use.
+												<b>Take total control of your home or office environment with technology that simplifies your life.</b>
+												Manage everything, from lighting, temperature, and blinds to appliances with a single tap or a simple voice command. 
+												Create personalized routines that adapt to your lifestyle for ultimate comfort and convenience.
+												Our smart home solutions are designed to simplify your life and give you full control over your home. 
+												From advanced security to home entertainment and everything in between, we offer customized solutions to suit your lifestyle. 
+												Whether you’re in the process of building a new residence, carrying out renovations, or seeking to elevate your technological 
+												environment in your current home, our tailored options offers a diversified options to suits your specific needs.
 											</p>
-											<ul class="actions">
-												<li><a href="contact.html" class="button">Learn more</a></li>
-											</ul>
+											
 										</div>
 									</div>
 								</section>
@@ -107,13 +110,15 @@
 												<h3>Sustainable Living</h3>
 											</header>
 											<p>
-												<b>Go beyond convenience — go sustainable.</b>
-												Never have to worry about loadshedding again with our help, you can go fully off-grid with guilt-free renewable energy. We'd also love to help you monitor and reduce your home’s energy
-												consumption through intelligent systems that optimize lighting, heating, and appliance use. Live comfortably while saving money and protecting the planet.
+												<b>Go beyond convenience — go sustainable with renewable energy.</b>
+												Never have to worry about loadshedding again.  With our help, you can go fully off-grid 
+												with guilt-free renewable energy. We'd also love to help you monitor and reduce your home’s 
+												energy consumption through intelligent systems that optimize lighting, heating, and appliance use. 
+												Live comfortably while saving money and protecting the planet. Our residential and commercial energy 
+												solutions are designed to fit your needs, whether for backup power, lower energy bills, on and 
+												off-grid living, or hybrid systems.
 											</p>
-											<ul class="actions">
-												<li><a href="contact.html" class="button">Learn more</a></li>
-											</ul>
+											
 										</div>
 									</div>
 								</section>
@@ -128,13 +133,14 @@
 											</header>
 											<p>
 												<b>Protect what matters most.</b>
-												Keep your home or office, and the important things in it, safe and secure at all times. Check in on the locks, cameras, and garage doors from across the street or across the globe. Receive alerts
-												when someone enters the house. Set lights to automatically come on at dusk so you’ll never have to approach a dark house again. Intelligent security solutions put peace of mind at your
-												fingertips so you can trust that all is safe and sound.
+												Keep your home or office, and the important things in it, safe and secure at all times. Check in on the locks, 
+												cameras, and garage doors from across the street or across the globe. Receive alerts when someone enters the house. 
+												Set lights to automatically come on at dusk so you’ll never have to approach a dark house again. Intelligent security 
+												solutions put peace of mind at your fingertips so you can trust that all is safe and sound. Ensure that your security 
+												system is fully integrated to keep your family or business protected 24/7. Using cutting-edge AI technology that enhances defenses
+												and provides even more protective power, we deliver cost-effective and error-free security for your businesses and homes.
 											</p>
-											<ul class="actions">
-												<li><a href="contact.html" class="button">Learn more</a></li>
-											</ul>
+											
 										</div>
 									</div>
 								</section>
@@ -152,9 +158,7 @@
 												From multi-zone audio distribution and smart conferencing to boardroom displays and integrated presentation setups, we deliver cutting-edge AV solutions that enhance communication,
 												collaboration, and productivity across your office environment.
 											</p>
-											<ul class="actions">
-												<li><a href="contact.html" class="button">Learn more</a></li>
-											</ul>
+											
 										</div>
 									</div>
 								</section>
@@ -168,12 +172,16 @@
 												<h3>Home Infotainment</h3>
 											</header>
 											<p>
-												<b>Set the perfect scene to relax and really enjoy your music.</b> With one touch or by using a simple voice command, the lights dim, the shades lower, the music starts to play, and the front door locks 
-												so you can enjoy the magic. When your music plays nicely with other devices at home, life just got much more enjoyable.
+												<b>Set the perfect scene to relax and really enjoy your music.</b> 
+												With one touch or by using a simple voice command, the lights dim, the shades lower, the music starts to play, and the front door locks so you can enjoy the magic. 
+												When your music plays nicely with other devices at home, life just got much more enjoyable. Be the creator of the ultimate audio/video experience—in one room or 
+												every room, no matter the size of your home. Experience the latest 4K movies, stream high-resolution music, enjoy your favorite sporting events, or create an unbeatable 
+												home theater experience. Technology disappears and you simply interact with your favorite movies and music from an easy-to-use intuitive interface such as a hand-held remote, 
+												tabletop touchscreen, the phone in your pocket, or simplest of all - your own voice. From in-ceiling speakers, 
+												on-wall speakers, in-wall speakers and soundbars, to Outdoor speakers - be they wall-mounted or speaker solutions that disappear into the shrubs and plants around the perimeter of 
+												the space.
 											</p>
-											<ul class="actions">
-												<li><a href="contact.html" class="button">Learn more</a></li>
-											</ul>
+											
 										</div>
 									</div>
 								</section>
