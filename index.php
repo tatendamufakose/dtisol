@@ -72,7 +72,7 @@
 										<img src="images/jakub-zerdzicki-We56jns_zLE-unsplash.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="services.html" class="link">Smart Technology</a></h3>
+										<h3><a href="services.php" class="link">Smart Technology</a></h3>
 										<p>Transform your work or living space with intelligent technology.</p>
 									</header>
 								</article>
@@ -82,7 +82,7 @@
 										<img src="images/dan-lefebvre-RFAHj4tI37Y-unsplash.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="services.html#automation_service" class="link">Home Automation</a></h3>
+										<h3><a href="services.php#automation_service" class="link">Home Automation</a></h3>
 										<p>Control lighting, temperature, appliances, and entertainment with a single tap or voice command.</p>
 									</header>
 								</article>
@@ -92,7 +92,7 @@
 										<img src="images/pexels-kindelmedia-9875676.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="services.html#sustainable_service" class="link">Sustainable Living</a></h3>
+										<h3><a href="services.php#sustainable_service" class="link">Sustainable Living</a></h3>
 										<p>Go beyond convenience; Go sustainable with our green energy products.</p>
 									</header>
 								</article>
@@ -102,7 +102,7 @@
 										<img src="images/amr-taha-qsA0ldj7MCM-unsplash.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="services.html#iot_service" class="link">Internet of Things Integration</a></h3>
+										<h3><a href="services.php#iot_service" class="link">Internet of Things Integration</a></h3>
 										<p>Bring your devices together under one intelligent ecosystem.</p>
 									</header>
 								</article>
@@ -112,7 +112,7 @@
 										<img src="images/jakub-zerdzicki-uxYLtGRyGKQ-unsplash.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="services.html#security_service" class="link">Home &amp; Office Security</a></h3>
+										<h3><a href="services.php#security_service" class="link">Home &amp; Office Security</a></h3>
 										<p>Stay in control wherever you are.</p>
 									</header>
 								</article>
@@ -122,7 +122,7 @@
 										<img src="images/boardroom_audio_video.jpg" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="services.html#office_audio_service" class="link">Audio-Visual</a></h3>
+										<h3><a href="services.php#office_audio_service" class="link">Audio-Visual</a></h3>
 										<p>Immerse yourself in premium sound and visual experiences.</p>
 									</header>
 								</article>
@@ -139,7 +139,7 @@
 										We’re a team of engineers, innovators, and designers committed to transforming everyday spaces into smart ecosystems that enhance comfort, security, and environmental responsibility.
 									</p>
 									<ul class="actions">
-										<li><a href="about.html" class="button next">Learn More</a></li>
+										<li><a href="about.php" class="button next">Learn More</a></li>
 									</ul>
 								</div>
 							</section>

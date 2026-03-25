@@ -151,12 +151,18 @@
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Office Audio-Visual</h3>
+												<h3>Smart Offices &amp; Commercial Environment</h3>
 											</header>
 											<p>
-												<b>Empower your workplace with high-performance audio and visual systems.</b>
-												From multi-zone audio distribution and smart conferencing to boardroom displays and integrated presentation setups, we deliver cutting-edge AV solutions that enhance communication,
-												collaboration, and productivity across your office environment.
+												<b>The Smart Business experience with the right solutions tailored to your needs.</b>
+												Your business can become a more efficient, productive, and healthy environment for your valued employees and customers. Whether it is a new 
+												or retrofit build, we can set you up to control all aspects of your audio, video, security, HVAC, and lighting with the touch of a button.
+												We can also automate your system based on hours of operation, creating a user-friendly and intuitive experience for your customers, leveraging our decades of 
+												experience to deliver for you on all fronts. With its easy-to-use interface on touchscreens, mobile, and keypads, you can automate 
+												opening/closing processes to turn on your video and audio systems, set the lighting, and more. Easily control any intricate AV system for 
+												your bar, restaurant, gym, hospitality, or retail space on a platform that can scale with your business. From intimate huddle spaces, to large 
+												boardrooms, we have tailored and bespoke solutions to meet your business needs, video conference solutions, room booking solutions and 
+												unified communications solutions.
 											</p>
 											
 										</div>
