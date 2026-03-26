@@ -4014,15 +4014,20 @@ input, select, textarea {
 
 /*Partner List styling*/
 
-#partnerList{
+#partnerList {
 	background-color: #FFFFFF;
+	color: #242943 !important;
 }
 
-.partner-row{
+.partner-container h2{
+	color: #242943 !important;
+}
+
+.partner-row {
 	align-content: center;
 	justify-items: center;
 	align-content: center;
-	align-items:center;
+	align-items: center;
 	margin-bottom: 30px;
 }
 

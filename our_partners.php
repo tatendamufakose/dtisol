@@ -80,46 +80,60 @@
 						<!-- Two -->
 						<section id="partnerList" class="spotlights">
 							<div class="inner">
-								<div class="box alt">
+								<div class="box alt partner-container">
 									<div class="row gtr-50 gtr-uniform partner-row">
-										<div class="col-4"><span class="image fit"><img src="images/partners/control4-logo-1024x683.jpg" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Logo-Bose-1024x576.jpg" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/lutron-logo-1024x149.jpg" alt="" /></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.control4.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/control4-logo-1024x683.jpg" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.savant.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Savant-Logo.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.extron.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Extron-logo.png" alt="" /></a></span></div>								
 									</div>
-
+									<hr/>
 									<div class="row gtr-50 gtr-uniform partner-row">
-										<div class="col-4"><span class="image fit"><img src="images/partners/Samsung-logo-1024x576.jpg" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/2N_logo_new.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/1200px-Sonos_Unternehmen_logo.svg-1024x212.png" alt="" /></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.lutron.com/us/en" target="_blank" rel="noopener noreferrer"><img src="images/partners/lutron-logo-1024x149.jpg" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.knx.org/knx-en/for-your-home/" target="_blank" rel="noopener noreferrer"><img src="images/partners/KNX_logo.svg-1024x489.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://rakocontrols.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Rako.png" alt="" /></a></span></div>
 									</div>
-
+									<hr/>
 									<div class="row gtr-50 gtr-uniform partner-row">
-										<div class="col-4"><span class="image fit"><img src="images/partners/Bowers_and_Wilkins.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Crestron.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/denon-logo.png" alt="" /></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.yealink.com/en" target="_blank" rel="noopener noreferrer"><img src="images/partners/YearLink_logo_2021_en.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.barco.com/en/products/clickshare-conferencing-collaboration" target="_blank" rel="noopener noreferrer"><img src="images/partners/Barco.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.hp.com/za-en/poly.html" target="_blank" rel="noopener noreferrer"><img src="images/partners/HP_Poly.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.logitech.com/en-za" target="_blank" rel="noopener noreferrer"><img src="images/partners/Logitech-logo.jpg" alt="" /></a></span></div>
 									</div>
-
+									<hr/>
 									<div class="row gtr-50 gtr-uniform partner-row">
-										<div class="col-4"><span class="image fit"><img src="images/partners/Grandstream-logo-transparent-1024x262.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Hager_logo_logotype_emblem-1024x333.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Hikvision-Logo-1024x206.png" alt="" /></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.denon.com/en/" target="_blank" rel="noopener noreferrer"><img src="images/partners/denon-logo.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.sonos.com/en-us/home" target="_blank" rel="noopener noreferrer"><img src="images/partners/1200px-Sonos_Unternehmen_logo.svg-1024x212.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.bose.com/home" target="_blank" rel="noopener noreferrer"><img src="images/partners/Logo-Bose-1024x576.jpg" alt="" /></a></span></div>
 									</div>
-
+									<hr/>
 									<div class="row gtr-50 gtr-uniform partner-row">
-										<div class="col-4"><span class="image fit"><img src="images/partners/JVC-Logo-1024x576.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/KNX_logo.svg-1024x489.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Monitor-Audio-Logo-1024x576.png" alt="" /></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.monitoraudio.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Monitor-Audio-Logo-1024x576.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://steinwaylyngdorf.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Steinway-Logo.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.polkaudio.com/en/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Polk.png" alt="" /></a></span></div>
 									</div>
-
+									<hr/>
 									<div class="row gtr-50 gtr-uniform partner-row">
-										<div class="col-4"><span class="image fit"><img src="images/partners/Savant-Logo.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Steinway-Logo.png" alt="" /></span></div>
-										<div class="col-4"><span class="image fit"><img src="images/partners/Ubiquiti.png" alt="" /></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.marantz.com/en/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Marantz.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.pulse-eight.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/PulseEight.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.litheaudio.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Lithe_Audio.png" alt="" /></a></span></div>
 									</div>
-
-
+									<hr/>
+									<div class="row gtr-50 gtr-uniform partner-row">
+										<div class="col-4"><span class="image fit"><a href="https://www.dahuasecurity.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/dahua.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.hikvision.com/en/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Hikvision-Logo-1024x206.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://ajax.systems/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Ajax_Security.png" alt="" /></a></span></div>
+									</div>
+									<hr/>
+									<div class="row gtr-50 gtr-uniform partner-row">
+										<div class="col-4"><span class="image fit"><a href="https://www.2n.com/en-GB/" target="_blank" rel="noopener noreferrer"><img src="images/partners/2N_logo_new.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://yalehome.co.za/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Yale.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://ui.com/" target="_blank" rel="noopener noreferrer"><img src="images/partners/Ubiquiti.png" alt="" /></a></span></div>
+										<div class="col-4"><span class="image fit"><a href="https://www.ruijie.com/en-global" target="_blank" rel="noopener noreferrer"><img src="images/partners/Ruijie.png" alt="" /></a></span></div>
+									</div>
+									<hr/>
+									
 								</div>
-								</div>
+							</div>
 						</section>
 						
 
