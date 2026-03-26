@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Our Services - DIGITECH</title>
+		<title>What's new @ DIGITECH</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -62,134 +62,30 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h2>SMART HOME SMART LIFE</h2>
+										<h2>Smarter Spaces. New Possibilities.</h2>
 									</header>
 									<p>At <b>DIGITECH Innovative Solutions</b>, we offer a full suite of intelligent solutions designed to enhance comfort, security, efficiency, and productivity across homes and offices. From smart automation and advanced security to green technologies, IoT integration, smart home systems, and audio-visual installations, our services are built to work seamlessly together — creating connected environments that adapt to you. Whatever your needs, our team delivers tailored technology that simplifies everyday living and empowers smarter spaces.</p>
 								</div>
 							</section>
 
-						<!-- Two -->
-							<section id="two" class="spotlights">
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/dan-lefebvre-RFAHj4tI37Y-unsplash.jpg" alt="" data-position="center center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Home Automation</h3>
-											</header>
-											<p>
-												<b>Take total control of your home or office environment.</b>
-												Manage lighting, temperature, blinds, and appliances with a single tap or a simple voice command. Create personalized routines that adapt to your lifestyle for ultimate comfort and convenience.
-												A smart home operating system (OS) connects virtually all of the technology in your home. With Control4 Smart Home OS3, you and your family can control nearly every device and system in the
-												house in ways that are easy and fun to use.
-											</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/pexels-kindelmedia-9875676.jpg" alt="" data-position="top center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Sustainable Living</h3>
-											</header>
-											<p>
-												<b>Go beyond convenience — go sustainable.</b>
-												Never have to worry about loadshedding again with our help, you can go fully off-grid with guilt-free renewable energy. We'd also love to help you monitor and reduce your home’s energy
-												consumption through intelligent systems that optimize lighting, heating, and appliance use. Live comfortably while saving money and protecting the planet.
-											</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/jakub-zerdzicki-uxYLtGRyGKQ-unsplash.jpg" alt="" data-position="25% 25%" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Home &amp; Office Security</h3>
-											</header>
-											<p>
-												<b>Protect what matters most.</b>
-												Keep your home or office, and the important things in it, safe and secure at all times. Check in on the locks, cameras, and garage doors from across the street or across the globe. Receive alerts
-												when someone enters the house. Set lights to automatically come on at dusk so you’ll never have to approach a dark house again. Intelligent security solutions put peace of mind at your
-												fingertips so you can trust that all is safe and sound.
-											</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/boardroom_audio_video.jpg" alt="" data-position="top center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Office Audio-Visual</h3>
-											</header>
-											<p>
-												<b>Empower your workplace with high-performance audio and visual systems.</b>
-												From multi-zone audio distribution and smart conferencing to boardroom displays and integrated presentation setups, we deliver cutting-edge AV solutions that enhance communication,
-												collaboration, and productivity across your office environment.
-											</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-								<section>
-									<a href="generic.html" class="image">
-										<img src="images/Home_Theatre_System.jpeg" alt="" data-position="center center" />
-									</a>
-									<div class="content">
-										<div class="inner">
-											<header class="major">
-												<h3>Home Infotainment</h3>
-											</header>
-											<p>
-												<b>Set the perfect scene to relax and really enjoy your music.</b> With one touch or by using a simple voice command, the lights dim, the shades lower, the music starts to play, and the front door locks 
-												so you can enjoy the magic. When your music plays nicely with other devices at home, life just got much more enjoyable.
-											</p>
-											<ul class="actions">
-												<li><a href="generic.html" class="button">Learn more</a></li>
-											</ul>
-										</div>
-									</div>
-								</section>
-							</section>
-
-						<!-- Three -->
-							<section id="three">
+							<!-- Two -->
+							<section id="two">
 								<div class="inner">
 									<header class="major">
 										<h2>Ready to transform your space?</h2>
 									</header>
 									<p>
-										Whether you’re upgrading a single room or planning a complete smart ecosystem, we’re here to guide you from concept to installation — with expert advice 
-										and zero obligation. Get in touch today to request a free consultation or quote, and take the first step toward a safer, smarter, and more efficient environment.
+										We’re continuously developing smarter automation solutions for homes and businesses. 
+										Check back soon or get in touch to be the first to experience what’s next.
 									</p>
+									<h3>Meanwhile, <em>Your Solution</em> Does Not Have To Wait</h3>
 									<ul class="actions">
-										<li><a href="contact.html" class="button next">Get Started</a></li>
+										<li><a href="contact.php" class="button next">Book a consultation</a></li>
 									</ul>
 								</div>
 							</section>
 
-					</div>
+					
 
 				<!-- Contact -->
 				<section id="contact">
