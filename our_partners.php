@@ -38,7 +38,7 @@
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="contact.php" class="button primary fit">Get Started</a></li>
-							<li><a href="tel:0027814458003" class="button fit">Call Us <span class="icon solid alt fa-phone"></span></a></li>
+							<li><a href="tel:0027671889308" class="button fit">Call Us <span class="icon solid alt fa-phone"></span></a></li>
 						</ul>
 					</nav>
 
@@ -135,7 +135,7 @@
 									and zero obligation. Get in touch today to request a free consultation or quote, and take the first step toward a safer, smarter, and more efficient environment.
 								</p>
 								<ul class="actions">
-									<li><a href="contact.html" class="button next">Get Started</a></li>
+									<li><a href="contact.php" class="button next">Get Started</a></li>
 								</ul>
 							</div>
 						</section>
@@ -146,6 +146,14 @@
 					<section id="contact">
 						<div class="inner">
 							<section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="contact.php">sales@dtisol.co.za</a>
+									</div>
+									<hr/>
+								</section>
 								<form method="post" action="send_mail.php">
 									<div class="fields">
 										<div class="field">
@@ -173,17 +181,18 @@
 							<section class="split">
 								<section>
 									<div class="contact-method">
-										<span class="icon solid alt fa-envelope"></span>
-										<h3>Email</h3>
-										<a href="contact.html">sales@dtisol.co.za</a>
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Sales &amp; Marketing</h3>
+										<div><a href="tel:0027814458003" class="button fit">Innocent: (+27) 81-445-8003</a></div>
+										<div><a href="tel:0027714702063" class="button fit">Marcell : (+27) 71-470-2063</a></div>
+										<div><a href="tel:0027715852037" class="button fit">Michael : (+27) 71-585-2037</a></div>										
 									</div>
 								</section>
 								<section>
 									<div class="contact-method">
-										<span class="icon solid alt fa-phone"></span>
-										<h3>Phone</h3>
-										<span><a href="tel:0027814458003" class="button fit">(+27) 81-445-8003</a></span><br />
-										<span><a href="tel:0027714702063" class="button fit">(+27) 71-470-2063</a></span>
+										<span class="icon brands alt fa-whatsapp"></span>
+										<h3>Call or Whatsapp</h3>
+										<div><a href="tel:0027671889308" class="button fit">Office: (+27) 67-188-9308</a></div>
 									</div>
 								</section>
 								<section>
